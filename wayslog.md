@@ -11,25 +11,39 @@
 
 # 2. 专业技术
 
-- 擅长语言：Java/Golang/JavaScript/Python/C++
-- 后台框架：SSH/SpringMVC/MyBatis/beego/docker/nsq
+- 擅长语言：Python/Golang/Javascript/Java/Rust
+- Python模块: Flask/SQLAlchemy/Numpy/Caoe/Celery/Requests
+- 后台技术：gRPC/ProtoBuffer/Kubernetes/beego/docker/RabbitMQ
 - 前端框架：Bootstrap/SemanticUI/AngularJS/ExtJS4/jQuery/LeSS
-- 数据库相关：MySQL/PostgreSQL/Oracle
-- Salesforce : Apex/Workflow/Approval
-- 版本管理、文档和自动化部署工具：Svn/Git/Maven/Ant/GoDep/ADoC
-- 单元测试：JUnit/GoTest
-- 开发平台：openSUSE[^hiteWindows]/Vim/Sublime/IntelliJ IDEA/Eclipse
+- 数据相关：Etcd/MySQL/Oracle/
+- 版本管理、文档和自动化部署工具：Saltstack/Puppet/Cargo/Svn/Git/Maven/
+- 单元测试：JUnit/GoTest/coverage/py-lint/pymetrics
+- 开发平台：openSUSE[^hiteWindows]/Gvim/Sublime/IntelliJ IDEA/Eclipse
 
 ---
 
 # 3. 项目经验
 
-## 2014-10至今.七牛云存储.BasicService-Intern
+## 2014-10至2015-04, 2015-08至今.七牛云存储.BasicService研发工程师&安全工程师
+
+### 七牛运维工具集的持续更新和bug修复
+
+更新维护七牛运维工具集，提高其易用性，提升性能，例如某ssh工具，将其内存占用从18M降低至8M;将版本库的更新自动化;优化人员权限模型;推进ldap系统在七牛内部的实施等工作。
+
+
+### 七牛线上安全检查工作
+
+协助buddy [@shell909090](http://github.com/shell909090) 进行七牛服务器安全升级和漏洞修复。同时负责自己检测七牛业务或者机房漏洞，发现重大漏洞两处，普通级别漏洞若干。
+
 ### QWEB-deploy运维部署平台
 
-负责七牛云存储的deploy部署平台的维护和改进，修改平台整体流程。加入调度队列，细化部署锁。
+负责七牛云存储的deploy部署平台的维护和改进，修改平台整体流程。加入调度队列，细化部署粒度。将七牛的发布系统从20台的并发部署数量提升至200台。将部署服务化，web化。前端展示到后台代码再到数据库存取和优化都是我在负责。
 
-接受两个月将部署失败率由90%降到了1%不到，期间全程负责新平台的搭建，扩容以及压测。我本人目前全权负责这个平台，成为七牛公司**唯一**的运维开发人员。
+同时建立了七牛第一个真正意义上的QA测试环境，并负责维护此环境。
+
+期间全程负责新平台的设计、搭建，扩容以及压测。我本人目前全权负责这个平台，成为本项目的**唯一**开发人员。
+
+从无到有，从单例到高可用，从线上coding到完备的测试流程。
 
 ## 2014-07至2014-10.百度时代网络在线.FE-Intern
 
@@ -79,7 +93,7 @@
 国防科技实验室内部要求，利用Java net/http等包进行再封装，构成静态文件文件Http服务器。
 
 ## 其他项目
-### 长春理工大学大学生科技协会主站
+### 长春理工大学大学生科技协会主站（现已被替换）
 利用joomla!v2.5搭建，并定制部分模块和内容。
 
 ---
@@ -93,7 +107,3 @@
 
 ---
 
-#6. 个人项目
-
-* log4go : 小型的go语言linux下的log项目，实现log彩色输出，文件输出，分level输出，主要是觉得用的方便，比go自带的那个要舒服
-* cyber : 分布式的配置同步系统。在我的实践中发现我公司在用的saltstack经常出现无响应僵死，于是萌生出自己写一套同步系统的想法，目前正在开发中
