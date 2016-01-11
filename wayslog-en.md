@@ -1,22 +1,22 @@
 # Zhao XueSong's Resume
 
 ## 1. About
-* Name ：Zhao XueSong.wayslog
+* Name : Zhao XueSong.wayslog
 * Education : Software Engineering/Bachelor/ChangChun University Of Science and Technology
 * Tel : +86-182-2193-9980 
-* E-mail ： wayslog@163.com
+* E-Mail : wayslog@163.com
 * Github : [wayslog](https://github.com/wayslog)
 
 ---
 
 ## 2. Skills
 
-- GFW Cert: Use Google in China.
-- Program Language：Python/Golang/Javascript/Rust/Java
-- Python Skill:Flask/SQLAlchemy/PrettyTable/Requests/Beautiful Soap
-- Backend:ZMQ/Protocol Buffer/Kubernetes/MySQL/Docker/Etcd
-- Dev Ops：Saltstack/Puppet/Git/Maven/openSUSE/Spacemacs
-- Test Tools：Python Unittest/JUnit/GoTest/Pyhon-coverage/Py-lint/Pymetrics
+- GFW Cert : Use Google in China.
+- Program Language : Python/Golang/Javascript/Rust/Java
+- Python Skill : Flask/SQLAlchemy/PrettyTable/Requests/Beautiful Soap
+- Backend : ZMQ/Protocol Buffer/Kubernetes/MySQL/Docker/Etcd
+- Dev Ops : Saltstack/Puppet/Git/Maven/openSUSE/Spacemacs
+- Test Tools : Python Unittest/JUnit/GoTest/Pyhon-coverage/Py-lint/Pymetrics
 
 --
 
