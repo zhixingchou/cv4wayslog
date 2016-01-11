@@ -71,6 +71,7 @@ Manage all the picture resources and articles in our personal platform.
 
 ## 4. School 
 
-* 2014年ACM/ICPC吉林省大学生程序设计竞赛银奖(自学算法两个月的结果)
+* Creator of CUST College Technology Association
+* Section Chief in Publicity Department of Computer Science Faculty Students Council.
 * 2014 JiLin ACM International Collegiate Programming Contest, silver medal.
 * The second scholarship once, the third scholarship twice, special contributor scholarship four times.
