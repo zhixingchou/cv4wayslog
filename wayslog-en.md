@@ -2,10 +2,10 @@
 
 ## 1. About
 * Name : Zhao XueSong.wayslog
-* Education : Software Engineering/Bachelor/ChangChun University Of Science and Technology
-* Tel : +86-182-2193-9980 
-* E-Mail : wayslog@163.com
+* Education : Software Engineering/Bachelor/ChangChun University of Science and Technology
 * Github : [wayslog](https://github.com/wayslog)
+* E-Mail : zxs867179@gmail.com
+* Tel : +86-182-2193-9980 
 
 ---
 
