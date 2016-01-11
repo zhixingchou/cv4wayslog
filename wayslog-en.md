@@ -11,13 +11,14 @@
 
 ## 2. Skills
 
+- GFW Cert: Use Google in China.
 - Program Language：Python/Golang/Javascript/Rust/Java
-- Python Skill: Flask/SQLAlchemy/PrettyTable/Requests/Beautiful Soap
-- Backend ： ZMQ/Protocol Buffer/Kubernetes/MySQL/Docker/Etcd
-- Dev Ops ： Saltstack/Puppet/Git/Maven/openSUSE/Spacemacs/
-- Test Tools ： Python Unittest/JUnit/GoTest/Pyhon-coverage/Py-lint/Pymetrics
+- Python Skill:Flask/SQLAlchemy/PrettyTable/Requests/Beautiful Soap
+- Backend:ZMQ/Protocol Buffer/Kubernetes/MySQL/Docker/Etcd
+- Dev Ops：Saltstack/Puppet/Git/Maven/openSUSE/Spacemacs
+- Test Tools：Python Unittest/JUnit/GoTest/Pyhon-coverage/Py-lint/Pymetrics
 
----
+--
 
 ## 3. Project && Work Experience
 
