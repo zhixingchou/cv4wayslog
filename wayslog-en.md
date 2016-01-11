@@ -22,7 +22,7 @@
 
 ## 3. Project && Work Experience
 
-### 2014-10~2015-04, 2015-7~Now, Qiniu Cloud Storage.BasicService Develop&Security Engineer
+### 2014-10~Now, Qiniu Cloud Storage.BasicService-Engineer
 
 #### Qiniu - dev-ops tools maintaincer
 
