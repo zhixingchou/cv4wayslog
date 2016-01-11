@@ -50,7 +50,7 @@ For detail change:
 4. From zero to one, combine the whole coding flow as most automatic as I can.
 
 
-### 2014-07至2014-10.Baidu Holdings Ltd.LBS.FE-Intern
+### 2014-07~2014-10.Baidu Holdings Ltd.LBS.FE-Intern
 
 #### Baidu LBS - Flight Page Restore
 
