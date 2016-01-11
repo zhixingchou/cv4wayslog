@@ -21,7 +21,7 @@
 
 ## 3. Project && Work Experience
 
-### 2014-10~2015-04, 2015-7~Now, Qiniu Cloud Storage.BasicService Basic Service Develop&Security Engineer
+### 2014-10~2015-04, 2015-7~Now, Qiniu Cloud Storage.BasicService Develop&Security Engineer
 
 #### Qiniu - dev-ops tools maintaincer
 
@@ -31,12 +31,11 @@ including but not limited to:
 2. SaltStack private module. Maintains and creates newer.
 3. Puppet private module, Maintains and creates newer.
 4. Some other helpful but useful scripts.
-5. Auto-update tools on line, for security upgrades.
-
+5. Auto-update tools , for security upgrades.
 
 #### Qiniu - Security Works
 
-Contribute to my buddy[@shell909090](http://github.com/shell909090) to work for security strengthening, confirm bug and push to fix them.
+Contribute to my buddy[shell909090](http://github.com/shell909090) to work for security strengthening, confirm bug and push to fix them.
 
 #### Qiniu - Deploy System QWEB-SYSTEM 
 
@@ -45,11 +44,8 @@ Optimize Qiniu deploy platform, make it into service.
 For detail change:
 
 1. Remove the big deploy lock, as the result that all the deploy jobs work parallel.
-
 2. Deploy as a Service, instead of deploy scripts.
-
 3. Build the first QA cluster, including 13 Nodes .
-
 4. From zero to one, combine the whole coding flow as most automatic as I can.
 
 
@@ -63,13 +59,17 @@ Undertake to write CSS and JavaScript, and produce the first edition.
 
 #### Baidu LBS - App Special Page
 
-* [PC](http://lvyou.baidu.com/event/s/2014goldenweek/?fr=index)
+Two single special pages:
 
+* [PC](http://lvyou.baidu.com/event/s/2014goldenweek/?fr=index)
 * [Mobile](http://lvyou.baidu.com/event/s/2014goldenweek/webapp)
 
 #### Baidu LBS - Wechat mis Management Page.
 
+Manage all the picture resources and articles in our personal platform.
+
 ## 4. School 
+
 * 2014年ACM/ICPC吉林省大学生程序设计竞赛银奖(自学算法两个月的结果)
 * 2014 JiLin ACM International Collegiate Programming Contest, silver medal.
 * The second scholarship once, the third scholarship twice, special contributor scholarship four times.
