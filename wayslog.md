@@ -1,11 +1,12 @@
-# 赵雪松.JAVA.Golang
+# 赵雪松|Python|Rust|Java
 
 ## 1. 个人信息
-* 姓名 ：赵雪松.wayslog
+* 姓名 :赵雪松.wayslog
 * 学历 : 软件工程/学士/长春理工大学
-* 电话   : +86-182-2193-9980 
-* 邮箱 ： wayslog@163.com
-* github : [wayslog](https://github.com/wayslog)
+* 电话 : +86-182-2193-9980 
+* 邮箱 : wayslog@163.com
+* github : [WaySLOG(https://github.com/wayslog)](https://github.com/wayslog)
+* blog: [wayslog.com](http://wayslog.com)
 
 ---
 
