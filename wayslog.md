@@ -12,14 +12,14 @@
 
 ## 2. 专业技术
 
-- 擅长语言：Python/Rust/Golang/Javascript/Java
+- 擅长语言：Python/Rust/Golang/C++/Java
 - Python模块: Flask/SQLAlchemy/Numpy/Caoe/Celery/Requests
 - 后台技术：gRPC/ProtoBuffer/nanomsg/ZMQ/beego/docker/RabbitMQ
-- 前端框架：Bootstrap/SemanticUI/AngularJS/ExtJS4/jQuery/LeSS
-- 数据相关：Etcd/MySQL/Oracle/
+- 前端框架：Bootstrap/SemanticUI/AngularJS/ExtJS4/jQuery
+- 数据相关：Graphite/StatsD/Redis/Etcd/MySQL/Oracle/
 - 版本管理、文档和自动化部署工具：Saltstack/Puppet/Cargo/Svn/Git/Maven/
-- 单元测试：JUnit/GoTest/coverage/py-lint/pymetrics
-- 开发平台：openSUSE/spacemacs/Sublime/IntelliJ IDEA/Eclipse
+- 单元测试：JUnit/GoTest/coverage/py-lint/nostests
+- 开发平台：openSUSE/spacemacs/FF+Vimperator
 
 ---
 
@@ -31,7 +31,23 @@
 
 参与编写RustPrimer，使之成为第一本完整的Rust中文教程。成为本项目的贡献第一的作者，同时现在这本书由本人维护。包括新版本的发布和更新。
 
-### 2014-10至2015-04, 2015-08至今.七牛云存储.BasicService研发工程师&安全工程师
+## 工作经验
+
+### 2016-05至今.饿了么.高级Python工程师
+
+#### 饿了么缓存系统
+
+原有缓存系统结构复杂，指令繁琐，为了精简流程，快速响应重写原系统。精简原有的几十个配置选项到五个操作，并集成內建监控，报警，心跳功能。维持一套简易的RPC系统。
+
+#### 饿了么监控系统维护开发
+
+基于statsd/graphite/grafana做的饿了么监控系统，任职期间，将graphite的CPU消耗降低 100%，扩容集群四个，维护指标量超过300W个，每分钟更新上千万个指标点。监控系统入口流量6Gbps。使用Rust改写监控系统入口的statsd（原为nodejs），降低CPU 250%。
+
+#### 饿了么新监控系统研发
+
+针对原有监控系统的痛点：流量浪费（重复数据内容）严重、监控数据小包量过大、无法简单的横向扩容、运维成本过高、资源消耗过大、不支持tag、无法快速聚合等缺点研发饿了么新监控系统核心。采用Rust/Go编写，目前已经完成线上灰度并成功接入某业务，正在逐步进行灰度。
+
+### 2014-10至2015-04, 2015-08至2016-05.七牛云存储.BasicService研发工程师&安全工程师
 
 #### 七牛运维工具集的持续更新和bug修复
 
@@ -70,7 +86,7 @@
 #### 百度旅游-国际机票页重构
 
 利用去哪网数据和接口，整合百度旅游资源，进行百度旅游机票页面的重构，负责FE开发及去哪网数据接口的协调,
-去除大量的百度CMS配置，减少加载及Smarty模板渲染时间，从而优化整个页面加载时间。
+去除大量的百度CMS配置，减少加载及SMarty模板渲染时间，从而优化整个页面加载时间。
 
 将加载时间由原先的**5\.5**秒以上优化至了**2\.87**秒左右。
 
@@ -104,7 +120,7 @@
 ### 2012-7至2013-9.长春理工大学国防科技实验室.成员
 
 #### 吉林省教育厅科研项目管理系统
-国防科技实验室承接的吉林省教育厅科研项目管理的系统开发，负责用户管理和培训资料管理的开发，及用户权限控制。
+国防科技实验室承接的吉林省教育厅科研项目管理的系统开发，负责人事管理和档案资料管理的开发，及用户权限控制。
 
 采用Java平台，SpringMVC和Spring结合使用。
 
